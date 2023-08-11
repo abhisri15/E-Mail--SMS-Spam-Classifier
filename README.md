@@ -6,7 +6,7 @@ The **Email/SMS Spam Classifier** is a machine learning-based application that p
 
 ## Project Demo 🎥
 
-![Demo GIF](demo.gif)
+![Demo GIF](gif.gif)
 
 ## Table of Contents
 - [Introduction](#introduction)
