@@ -8,6 +8,8 @@ The **Email/SMS Spam Classifier** is a machine learning-based application that p
 
 ![Demo GIF](gif.gif)
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Problem Statement](#problem-statement)
