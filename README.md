@@ -63,8 +63,8 @@ The application follows a structured approach for classifying email/SMS messages
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/email-sms-spam-classifier.git
-cd email-sms-spam-classifier
+git clone https://github.com/your-username/E-Mail--SMS-Spam-Classifier.git
+cd E-Mail--SMS-Spam-Classifier
 ```
 
 2. Install dependencies:
